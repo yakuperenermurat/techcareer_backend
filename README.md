@@ -14,13 +14,13 @@ mvn clean install
 project name: techcareer_2025_backend_1
 spring boot version: 3.3.7
 JDK: 17
-git url: https://github.com/hamitmizrak/techcareer_2025_backend_1.git
+git url: https://github.com/yakuperenermurat/techcareer_backend.git
 ```
 ---
 
 ## Git Clone
 ```sh 
-git clone https://github.com/hamitmizrak/techcareer_2025_backend_1.git 
+git clone https://github.com/yakuperenermurat/techcareer_backend.git
 ```
 ---
 
